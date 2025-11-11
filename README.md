@@ -1,2 +1,2 @@
-# GFG--Solutions
+# GFG- Solutions
 GFG solutions in Java
