@@ -1,13 +1,13 @@
-# 🌳 Top View of Binary Tree
+# Top View of Binary Tree
 
-## 📍 Problem Reference
+## Problem Reference
 **Problem Name:** [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)  
 **Platform:** GeeksforGeeks  
 **Problem Code:** `top-view-of-binary-tree`
 
 ---
 
-## 🧠 Intuition
+## Intuition
 
 The **top view** of a binary tree represents all the nodes that are visible when the tree is viewed from **above**.
 
